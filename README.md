@@ -10,7 +10,7 @@ To run tests you need to install [maven][maven], [java][java], and git.
 To generate Allure Report you should perform following steps:
 
 ```bash
-$ git clone git@github.com:nikitozeg/ifree-test-task.git
+$ git clone git@github.com:nikitozeg/Sberteh.git
 $ mvn clean test
 $ mvn site
 ```
