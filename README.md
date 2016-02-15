@@ -1,7 +1,7 @@
 [maven]: http://maven.apache.org/
 [java]: https://www.java.com/ru/download/help/download_options.xml
 
-##  autotests (test task)
+##  Sberteh Test task
 
 ### Getting Started
 
